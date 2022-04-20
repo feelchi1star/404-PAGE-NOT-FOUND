@@ -1,4 +1,4 @@
-<h1 align="center">{404 NOT FOUND}</h1>
+<h1 align="center">404 NOT FOUND PAGE</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/feelchi1star/404-PAGE-NOT-FOUND">
       Solution
     </a>
     <span> | </span>
@@ -19,8 +19,6 @@
     </a>
   </h3>
 </div>
-
-!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
@@ -54,7 +52,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Acknowledgements
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Marked - a markdown parser](https://github.com/chjj/marked) -[W3 CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
+- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [W3 CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
 
 ## Contact
 
