@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>404 Page Error</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="section">
+      <!-- Header of the Page -->
+      <h1 class="head">404 NOT FOUND</h1>
+      <!-- SVG IMAGE  -->
+      <div class="header">
+        <img
+          src="./undraw_page_not_found_re_e9o6.svg"
+          alt="404 Image"
+          srcset=""
+        />
+
+        <!-- Contents  -->
+        <div class="content">
+          <h2>I have bad news for you</h2>
+          <p class="lead">
+            The page you are looking for might be removed or is temporarily
+            unavailable
+          </p>
+          <!-- Buttons -->
+          <div class="btn">BACK TO HOMEPAGE</div>
+        </div>
+      </div>
+    </div>
+    <!-- Footer TEXT -->
+    <footer>
+      <div id="date">&COPY; Feelchi1star 2022</div>
+    </footer>
+    <script>
+      var d = new Date();
+      document.getElementById("date").innerHTML =
+        "&COPY; Feelchi1star " +
+        d.getFullYear() +
+        " " +
+        `<b><a href="https://www.github.com/feelchi1star">Created by Felix Chinonso Emmanuel</a></b>`;
+    </script>
+  </body>
+</html>
